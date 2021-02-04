@@ -1,15 +1,15 @@
 # [test](subfolder/)
 
-| link  |            test            |
-| :---: | :------------------------: |
-|  ..   | [test](..) upper subfolder |
-|   .   |     [test](.) refresh      |
-|  ...  |       [test](...) x        |
-|   /   |        [test](/) x         |
-|  \#   |    [test](#) Go to top     |
-|   @   |        [test](@) x         |
-|   $   |        [test]($) x         |
-|   ^   |        [test](^) x         |
-|   &   |        [test](&) x         |
-|  \*   |        [test](*) x         |
-|  \+   |        [test](+) x         |
+| link  |    test     | effect                          |
+| :---: | :---------: | :------------------------------ |
+|  ..   | [test](..)  | go folder above (fail for root) |
+|   .   |  [test](.)  | refresh                         |
+|  ...  | [test](...) | fail                            |
+|   /   |  [test](/)  | fail                            |
+|  \#   |  [test](#)  | Go to top                       |
+|   @   |  [test](@)  | fail                            |
+|   $   |  [test]($)  | fail                            |
+|   ^   |  [test](^)  | fail                            |
+|   &   |  [test](&)  | fail                            |
+|  \*   |  [test](*)  | fail                            |
+|  \+   |  [test](+)  | fail                            |
