@@ -9,19 +9,23 @@
 |   ...    |   [test](...)    |       fail (`...` folder)       | treeible |
 |    @     |    [test](@)     |              fail               | treeible |
 |    /     |    [test](/)     |              fail               | treeible |
-|    $     |    [test]($)     |              fail               | broken   |
+|    $     |    [test]($)     |              fail               | terrible |
 |    ^     |    [test](^)     |              fail               | treeible |
 |    \*    |    [test](*)     |              fail               | treeible |
 |    \+    |    [test](+)     |              fail               | treeible |
 |    &     |    [test](&)     |              fail               | treeible |
 |    _     |    [test](_)     |              fail               | treeible |
 |    >     |    [test](>)     |              fail               | treeible |
-|    <     |    [test](<)     |              fail               | treeible |
+|    <     |    [test](<)     |              fail               | invalid  |
 |    =     |    [test](=)     |              fail               | treeible |
 |    ~     |    [test](~)     |              fail               | treeible |
 |    :     |    [test](:)     |              fail               | treeible |
 |  ../..   |  [test](../..)   |              fail               | treeible |
-|    _     |    [test](_)     |               N_A               |          
+|    _     |    [test](_)     |               N_A               |          |
+|    _     |    [test](_)     |               N_A               |          |
+|    _     |    [test](_)     |               N_A               |          |
+|    _     |    [test](_)     |               N_A               |     ```diff
+  + test     |
 
 ```diff
 + test
