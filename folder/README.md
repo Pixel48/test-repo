@@ -1,4 +1,5 @@
-# [test](subfolder/)
+# link tests
+### [subfolder](subfolder/)
 
 |   link   |       test       |             effect              | rating   |
 | :------: | :--------------: | :-----------------------------: | -------- |
@@ -22,8 +23,3 @@
 |    :     |    [test](:)     |              fail               | treeible |
 |  ../..   |  [test](../..)   |              fail               | treeible |
 |    _     |    [test](_)     |               N_A               |          |
-
-```diff
-+ test
-- test
-```
