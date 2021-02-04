@@ -1,2 +1,3 @@
-# test
+# [test](subfolder/)
+
 back [test](..)
