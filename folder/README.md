@@ -4,10 +4,11 @@
 | :------: | :--------------: | :-----------------------------: |
 |    ..    |    [test](..)    | go folder above (fail for root) |
 |    .     |    [test](.)     |             refresh             |
-|   ...    |   [test](...)    |       fail (`...` folder)       |
-|    /     |    [test](/)     |              fail               |
+| ../../.. | [test](../../..) |      Homepage from folder       |
 |    \#    |    [test](#)     |            Go to top            |
+|   ...    |   [test](...)    |       fail (`...` folder)       |
 |    @     |    [test](@)     |              fail               |
+|    /     |    [test](/)     |              fail               |
 |    $     |    [test]($)     |              fail               |
 |    ^     |    [test](^)     |              fail               |
 |    \*    |    [test](*)     |              fail               |
@@ -20,5 +21,4 @@
 |    ~     |    [test](~)     |              fail               |
 |    :     |    [test](:)     |              fail               |
 |  ../..   |  [test](../..)   |              fail               |
-| ../../.. | [test](../../..) |               N_A               |
 |    _     |    [test](_)     |               N_A               |
