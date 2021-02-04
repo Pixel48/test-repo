@@ -24,9 +24,6 @@
 |    _     |    [test](_)     |               N_A               |
 
 ```diff
-+ test +
-- test -
-= test =
++ test
+- test
 ```
-
-```diff\ +test```
