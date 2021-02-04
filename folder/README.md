@@ -26,4 +26,7 @@
 ```diff
 + test +
 - test -
-= test =```
+= test =
+```
+
+```diff\ +test```
