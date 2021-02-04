@@ -22,10 +22,6 @@
 |    :     |    [test](:)     |              fail               | treeible |
 |  ../..   |  [test](../..)   |              fail               | treeible |
 |    _     |    [test](_)     |               N_A               |          |
-|    _     |    [test](_)     |               N_A               |          |
-|    _     |    [test](_)     |               N_A               |          |
-|    _     |    [test](_)     |               N_A               |     ```diff
-  + test     |
 
 ```diff
 + test
