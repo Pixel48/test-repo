@@ -1,23 +1,15 @@
 # [test](subfolder/)
 
-back [test](..)
-
-. [test](.)
-
-... [test](...)
-
-/ [test](/)
-
-\# [test](#)
-
-@ [test](@)
-
-$ [test]($)
-
-^ [test](^)
-
-& [test](&)
-
-* [test](*)
-=blue=
-+ [test](+) =red=
+| link  |            test            |
+| :---: | :------------------------: |
+|  ..   | [test](..) upper subfolder |
+|   .   |     [test](.) refresh      |
+|  ...  |       [test](...) x        |
+|   /   |        [test](/) x         |
+|  \#   |    [test](#) Go to top     |
+|   @   |        [test](@) x         |
+|   $   |        [test]($) x         |
+|   ^   |        [test](^) x         |
+|   &   |        [test](&) x         |
+|  \*   |        [test](*) x         |
+|  \+   |        [test](+) x         |
