@@ -1,14 +1,25 @@
 # [test](subfolder/)
 
-- back [test](..)
-- . [test](.)
-- ... [test](...)
-- / [test](/)
-- \# [test](#)
-- @ [test](@)
-- $ [test]($)
-- ^ [test](^)
-- & [test](&)
-- * [test](*)
-- + [test](+)
-- \ [test](\)
+back [test](..)
+
+. [test](.)
+
+... [test](...)
+
+/ [test](/)
+
+\# [test](#)
+
+@ [test](@)
+
+$ [test]($)
+
+^ [test](^)
+
+& [test](&)
+
+* [test](*)
+
++ [test](+)
+
+\ [test](\)
