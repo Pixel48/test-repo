@@ -23,4 +23,7 @@
 |  ../..   |  [test](../..)   |              fail               |
 |    _     |    [test](_)     |               N_A               |
 
-```diff + test```
+```diff
++ test +
+- test -
+= test =```
