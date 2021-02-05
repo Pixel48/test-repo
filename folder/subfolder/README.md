@@ -30,6 +30,16 @@ back [test](..)
     - [Archiwizuj](#archiwizuj)
 </details>
 
+## Główne założenia projektu
+[getLearn](https://github.com/Pixel48/getLearn) ma pomóc w  zbiorowej i zdecentralizowanej nauce oraz archiwizacji i opracowania przez społeczność materiałów do nauki, zarówno dla pasjonatów chcących aktywnie rozwijać się w kierunkach informatycznych, jak i dla osób, które po prostu chcą zdać swoje egzaminy
+
+~~Repozytorinum podzielone jest na segmenty tematyczne, a każdy z nich opatrzony jest własną menu projektów, omawiający wybraną technologię czy temat~~
+> Not Ready Yet
+
+Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nadzorowany przez osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
+
+Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji [***Współpraca***](#współpraca)
+
 
 
 
