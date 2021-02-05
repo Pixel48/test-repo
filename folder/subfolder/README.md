@@ -1,12 +1,15 @@
 # test
 back [test](..)
 
+# getLearn <!-- omit in toc -->
+[![_last-commit]][last-commit]
+[![_commit-activity-m]][commits] <!-- [![_all-contributors]][contributions] -->
+[![_languages-count]][tags]
+[![_repo-size]][zip]
+[![_license]][license]
 
 <details>
-<summary>
-\
-## Spis treści <!-- omit in toc -->
-</summary>
+<summary>Spis treści</summary>
 
 - [Główne założenia projektu](#główne-założenia-projektu)
 - [Lista kategorii rozwijanych i planowanych projektów](#lista-kategorii-rozwijanych-i-planowanych-projektów)
