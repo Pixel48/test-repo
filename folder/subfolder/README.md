@@ -4,7 +4,7 @@ back [test](..)
 
 <details>
 <summary>
-
+\
 ## Spis treści <!-- omit in toc -->
 </summary>
 
