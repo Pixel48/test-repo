@@ -1,4 +1,6 @@
 # ![logo](./ico32.png)[TEST](folder)
+# ![logo](./ico48.png)[TEST](folder)
+# ![logo](./ico64.png)[TEST](folder)
 <img src="https://shields.io/github/watchers/Pixel48/getLearn?style=social&link=https://github.com/Pixel48/getLearn/subscribe&link=https://github.com/Pixel48/getLearn/watchers">
 
 ![double link](https://shields.io/github/watchers/Pixel48/getLearn?style=social&link=https://github.com/Pixel48/getLearn/subscribe&link=https://github.com/Pixel48/getLearn/watchers)
