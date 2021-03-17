@@ -1,5 +1,5 @@
 # [TEST](folder)
-<img src="./ico.ico" float="left">
+<img src="./ico.ico" float="right">
 <img src="https://shields.io/github/watchers/Pixel48/getLearn?style=social&link=https://github.com/Pixel48/getLearn/subscribe&link=https://github.com/Pixel48/getLearn/watchers">
 
 ![double link](https://shields.io/github/watchers/Pixel48/getLearn?style=social&link=https://github.com/Pixel48/getLearn/subscribe&link=https://github.com/Pixel48/getLearn/watchers)
