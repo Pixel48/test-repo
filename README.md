@@ -40,3 +40,5 @@ $$\color{red}{\text{This should be red}}$$
 $\textcolor{red}{this red (inline latex)}$
 
 $\color{green}{this\ green\ (inline\ latex)}$
+
+$\color{#cad}\text{this lavenderish (inline latex)}$
