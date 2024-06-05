@@ -36,3 +36,5 @@ This should be yellow and centered
 $$\color{red}{\text{This should be red}}$$
 
 <p style="color: red">this red</p>
+
+$\textcolor{red}{this red (inline latex)}$
