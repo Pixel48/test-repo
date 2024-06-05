@@ -28,7 +28,7 @@ Shiels.io reStructText copy
 This should be yellow and centered
 </h1>
 
-<span color=red>this</span> should be red
+<span style="color:yellow">this</span> should be red
 <span color=#cad>this should be lavenderish</span>
 
 <span color=red background-color=darkred>@Rapid</span> - a role ...
