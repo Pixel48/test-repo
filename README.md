@@ -24,11 +24,11 @@ Shiels.io HTML copy
 Shiels.io reStructText copy
 .. image:: https://img.shields.io/github/watchers/pixel48/getlearn?label=Watch&style=social :alt: GitHub watchers
 
-<h1 color=yellow align=center>
+<h1 color=yellow align=center style="color: yellow">
 This should be yellow and centered
 </h1>
 
-<span style="color:yellow">this</span> should be red
+<span style="color: red;">this</span> should be red
 <span color=#cad>this should be lavenderish</span>
 
 <span color=red background-color=darkred>@Rapid</span> - a role ...
