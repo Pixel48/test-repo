@@ -27,3 +27,5 @@ Shiels.io reStructText copy
 <h1 color=yellow align=center>
 This should be yellow and centered
 </h1>
+
+<span color=red>this</span> should be red
