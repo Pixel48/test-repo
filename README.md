@@ -38,3 +38,5 @@ $$\color{red}{\text{This should be red}}$$
 <p style="color: red">this red</p>
 
 $\textcolor{red}{this red (inline latex)}$
+
+$\color{green}{this\ green\ (inline\ latex)}$
