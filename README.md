@@ -42,3 +42,5 @@ $\textcolor{red}{this red (inline latex)}$
 $\color{green}{this\ green\ (inline\ latex)}$
 
 $\color{#cad}\text{this lavenderish (inline latex)}$
+
+$\renewcommand{\familydefault}{SourceSansPro-Light}\color{orange}\text{This should be in Source Sans Pro Light and orange}$
