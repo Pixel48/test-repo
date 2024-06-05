@@ -34,3 +34,5 @@ This should be yellow and centered
 <span color=red background-color=darkred>@Rapid</span> - a role ...
 
 $$\color{red}{\text{This should be red}}$$
+
+<p style="color: red">this red</p>
