@@ -43,8 +43,13 @@ $\color{green}{this\ green\ (inline\ latex)}$
 
 $\color{#cad}\text{this lavenderish (inline latex)}$
 
-$\renewcommand{\familydefault}{SourceSansPro-Light}\color{orange}\text{This should be in Source Sans Pro Light and orange}$
+$\renewcommand{\familydefault}{SourceSansPro-Light}\color{orange}\text{This should be in Source Sans Pro Light and orange}$[^1]
 
-__underline__?
-*italic*?
+**underline**?[^2]
+
+[^2]: Inline Footnote
+
+_italic_?
 **bold**?
+
+[^1]: Bottom Footnote
