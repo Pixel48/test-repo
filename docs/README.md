@@ -101,11 +101,11 @@ im. Stanisława Staszica w Krakowie
 ## §5. Zarząd
 
 1. <a name='5-1'></a>Zarząd jest wybierany przez Walne Zebranie spośród członków Koła. Uchwały w sprawie wyboru Zarządu są podejmowane w głosowaniu tajnym bezwzględną większością głosów,
-2. Zarząd Koła składa się z trzech osób, które spośród swego grona wybierają Przewodniczącego, kierującego pracami Zarządu i reprezentującego go na zewnątrz.
-   > Walne zebranie członków Koła może ustalić inną liczbę członków Zarządu.
+2. Zarząd Koła składa się z trzech osób, które spośród swego grona wybierają Przewodniczącego, kierującego pracami Zarządu i reprezentującego go na zewnątrz. [^1]
+   [^1]: Walne zebranie członków Koła może ustalić inną liczbę członków Zarządu.
 3. Dokumenty w imieniu Koła podpisuje Przewodniczący lub z jego upoważnienia członek Zarządu.
-4. Kadencja Zarządu trwa jeden rok akademicki.
-   > Walne Rbranie członków Koła może ustalić dłuższą kadencję Zarządu.
+4. Kadencja Zarządu trwa jeden rok akademicki. [^2]
+   [^2]: Walne Rbranie członków Koła może ustalić dłuższą kadencję Zarządu.
 5. Uchwały Zarządu są podejmowane zwykłą większością głosów.
 6. Zarząd jest organem wykonawczym Koła.
 7. Do kompetencji Zarządu należy w szczególności:
